@@ -1,5 +1,6 @@
 MANIFEST.in
 README.md
+setup.cfg
 setup.py
 cython_bbox.egg-info/PKG-INFO
 cython_bbox.egg-info/SOURCES.txt
